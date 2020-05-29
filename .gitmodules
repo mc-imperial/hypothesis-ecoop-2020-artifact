@@ -1,0 +1,3 @@
+[submodule "external-reducer-evaluations/hypothesis-csmith"]
+	path = external-reducer-evaluations/hypothesis-csmith
+	url = https://github.com/HypothesisWorks/csmith.git
