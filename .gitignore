@@ -1,6 +1,9 @@
+
+*.egg-info
+experiments/*/sut.py
+.hypothesis
+__pycache__
+*.swo
+*.swp
 venv
 .working
-*.swp
-*.swo
-experiments/*/sut.py
-__pycache__
