@@ -1,0 +1,3 @@
+[submodule "hypothesis-csmith"]
+	path = hypothesis-csmith
+	url = https://github.com/HypothesisWorks/csmith.git
