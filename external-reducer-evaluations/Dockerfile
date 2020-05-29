@@ -29,3 +29,5 @@ ADD requirements.txt /root/
 RUN pip install --upgrade pip && pip install -r /root/requirements.txt
 
 RUN ln -s /usr/bin/python3 /usr/bin/python
+
+RUN apt-get install -y libbsd-dev
