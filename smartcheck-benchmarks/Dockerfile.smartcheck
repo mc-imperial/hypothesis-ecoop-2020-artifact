@@ -1,0 +1,3 @@
+FROM shrink-evaluations-common
+
+RUN cabal install --global smartcheck==0.2.4 || true

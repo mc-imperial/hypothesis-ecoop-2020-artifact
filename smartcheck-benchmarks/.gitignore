@@ -1,0 +1,16 @@
+*.swp
+*.swo
+venv
+.hypothesis
+__pycache__
+TestQC
+TestSmart
+Test
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+*.stack-work
+.stack-work
+shrink-evaluation.cabal
+tokens
