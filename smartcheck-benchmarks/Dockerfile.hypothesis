@@ -1,3 +1,0 @@
-FROM shrink-evaluations-quickcheck
-
-RUN pip install hypothesis==5.12.0
