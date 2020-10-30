@@ -1,0 +1,8 @@
+FROM shrink-evaluations-hypothesis36631
+
+RUN pip install black==18.6b4 pycodestyle==2.4.0
+
+RUN apk add git
+
+RUN pip install git+https://github.com/google/yapf.git@2c13f6f93e8ccfa0c966b67f88eeffe20ccb32a0
+RUN pip install git+https://github.com/DRMacIver/each@5cc2ad32fb154f072d4b0147992c19f920a428ce

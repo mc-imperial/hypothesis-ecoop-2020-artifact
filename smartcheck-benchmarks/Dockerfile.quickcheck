@@ -1,0 +1,3 @@
+FROM shrink-evaluations-common
+
+RUN cabal install --global QuickCheck==2.11.3
