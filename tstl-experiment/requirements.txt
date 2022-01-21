@@ -6,7 +6,7 @@ coverage==4.5.2
 decorator==4.4.1
 execnet==1.7.1
 hypothesis==4.56.1
-ipython==7.10.2
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.15.2
 parso==0.5.2
